@@ -1,0 +1,134 @@
+Indie
+Action
+Adventure
+Casual
+Strategy
+RPG
+Singleplayer
+2D
+Multiplayer
+Puzzle
+Difficult
+Fantasy
+Sci-fi
+Pixel Graphics
+Open World
+Shooter
+Platformer
+Co-op
+Survival
+Online Co-Op
+Exploration
+Replay Value
+Point & Click
+Controller
+Space
+Zombies
+Fast-Paced
+Tactical
+Local Multiplayer
+Dark
+Mystery
+Short
+Building
+Shoot 'Em Up
+Management
+Local Co-Op
+Party-Based RPG
+Action RPG
+Action-Adventure
+Side Scroller
+Rogue-like
+Choices Matter
+Crafting
+Puzzle-Platformer
+Top-Down
+Bullet Hell
+Character Customization
+PvP
+Rogue-lite
+Stealth
+Hack and Slash
+Minimalist
+Fighting
+Post-apocalyptic
+Procedural Generation
+Third-Person Shooter
+Tower Defense
+Dungeon Crawler
+Futuristic
+4 Player Local
+Multiple Endings
+Base Building
+Cartoony
+Surreal
+Magic
+Resource Management
+Top-Down Shooter
+Isometric
+Blood
+Cyberpunk
+Robots
+Team-Based
+Beat 'em up
+Economy
+Metroidvania
+Choose Your Own Adventure
+Perma Death
+Hand-drawn
+City Builder
+Aliens
+Parkour
+Cartoon
+Loot
+Arena Shooter
+PvE
+Real-Time
+Steampunk
+Lovecraftian
+Logic
+Demons
+Real-Time with Pause
+Alternate History
+2D Fighter
+Strategy RPG
+Score Attack
+Linear
+Real Time Tactics
+Tactical RPG
+Touch-Friendly
+Pirates
+Ninja
+Dragons
+Voxel
+Co-op Campaign
+Swordplay
+Time Management
+Superhero
+Runner
+Souls-like
+Supernatural
+Hex Grid
+Gun Customization
+Assassin
+Silent Protagonist
+Grid-Based Movement
+Nonlinear
+Inventory Management
+Villain Protagonist
+Hunting
+Bullet Time
+Quick-Time Events
+Time Attack
+Trading
+Class-Based
+Fishing
+Mining
+Artificial Intelligence
+Dynamic Narration
+Faith
+Sailing
+Mars
+Unforgiving
+Underground
+

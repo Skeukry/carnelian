@@ -1,0 +1,63 @@
+nyersanyagok (szállítani):
+    - védelemhez anyagok
+        * fal
+        * erőtér
+        * aura
+        * varázspor
+    - étel
+    - víz
+    - fa / kő építeni
+    - emberek szállítása
+
+karaván:
+    - kocsik
+    - védelem csomag helyett
+    - közeli védelem
+        * melee
+        * ranged
+    - felderítők
+    - medic
+    - min karaván: 1 kocsi + 2 őr
+    - max karaván: 10-20 kocsi + 50 őr
+    - méret↑ érték↑ ~ támadás↑
+
+védelem:
+    - kis terület (rövidebb ideig):
+      viszonylag könnyen felállítható,
+      de nem túl olcsó (ár ~ nyereség 50%)
+    - nagy terület (folyamatos):
+      nehezen felállítható, nagyon drága,
+      nem túl nehezen fenntartható
+    - nem mozgatható
+    - kifelé gyengülő hatás
+    - gyenge 😈 kicsit belemehetnek
+    - aktiválva lassan kifogy
+    - bányászható
+    - lehetőség: kristály
+    - kisebbet beszippantja
+    - kristály erőtér hullám
+
+biztonságos helyek:
+    - városok
+    - ideiglenes outpostok
+
+storyline:
+    - hirtelen gonosz
+    - pusztítás
+    - titokzatos idegenek nagy
+      drágakövekkel amik védik a városokat
+    - kisebb drágakövek bányászata, közös
+      tulajdon, bérleti díj (vagy 
+      elhasználódnak)
+    - cél:
+        * gonosz eredete / elpusztítása
+        * ultimate power
+        * ?????
+
+gonosz:
+    - szellemek
+    - mutálódott élőlények
+    - zombik
+    - egyedi lények
+    - 😈👽👻🤖👹👺😼👼🐺🐲🦂👾
+

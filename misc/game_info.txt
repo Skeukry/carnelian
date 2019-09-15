@@ -1,0 +1,27 @@
+Elements of games:
+https://learn.canvas.net/courses/3/pages/level-3-dot-1-atomic-elements-of-games
+
+
+Játékosok száma:
+	1 !
+	2-4 local PvE ??
+	online ?????????
+
+Objectives:
+	Capture/destroy. ?
+	Territorial control. The focus is not necessarily on destroying the opponent, but on controlling certain areas of the board.
+	Collection.
+	Build. ?
+
+Stílus:
+	2D !
+	pixelart ???
+
+Irányítás
+	kontroller (snes, ps4, xbox) !
+	billentyűzet (egér nélkül)
+
+Nyelv:
+	angol
+	magyar ?
+
