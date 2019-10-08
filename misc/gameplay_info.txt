@@ -1,13 +1,67 @@
-nyersanyagok (szállítani):
-    - védelemhez anyagok
-        * fal
-        * erőtér
-        * aura
-        * varázspor
-    - étel
-    - víz
-    - fa / kő építeni
-    - emberek szállítása
+játék általános infói:
+    - játékosok száma:
+        * 1!
+        * 2-4 local PvE ??
+        * online ?????????
+    - art stílus:
+        * 2D!
+        * pixelart ??
+    - irányítás
+        * kontroller (snes, ps4, xbox)!
+        * billentyűzet (egér nélkül)
+    - nyelv:
+        * angol
+        * magyar ?
+
+játék célja (http://bit.ly/2ktgOUw):
+    - Capture/destroy: szörnyek elkapása,
+      konvertálása?, forrásuk elpusztítása
+    - Territorial control: build + destroy
+    - Collection: skillek, nagyobb hatalom,
+      több útvonal elérése, felfedezés
+    - Solve: honnan jön és miért az enemy,
+      mi a gyengepontja
+    - Chase/race/escape: maga a karaván,
+      sérült kocsik hátrahagyása / védése
+    - Spatial alignment: nem igazán
+    - Build: új városok, utak,
+      outpostok építése
+    - Negation of another goal: nop
+    - játékosok fajtái:
+      http://bit.ly/2n8cDOD
+      https://matthewbarr.co.uk/bartle/
+    - jó achievement:
+      https://qr.ae/TWsABD
+
+storyline:
+    - hirtelen gonosz
+    - pusztítás
+    - titokzatos idegenek nagy
+      drágakövekkel amik védik a városokat
+    - kisebb drágakövek bányászata, közös
+      tulajdon, bérleti díj (vagy 
+      elhasználódnak / kimerülnek)
+
+védelem:
+    - városok:
+        * nagy terület
+        * folyamatos
+        * nehezen felállítható
+        * nagyon drága
+        * nem túl nehezen fenntartható
+    - outpostok:
+        * kis terület
+        * rövidebb ideig
+        * viszonylag könnyen felállítható
+        * nem túl olcsó (ár ~ nyereség 50%)
+    - nem mozgatható
+    - kifelé gyengülő hatás
+    - gyenge enemyk kicsit belemehetnek
+    - aktiválva lassan kifogy
+    - bányászható
+    - lehetőség: kristály
+    - kisebbet beszippantja
+    - kristály erőtér hullám
 
 karaván:
     - kocsik
@@ -18,46 +72,41 @@ karaván:
     - felderítők
     - medic
     - min karaván: 1 kocsi + 2 őr
-    - max karaván: 10-20 kocsi + 50 őr
+    - max karaván: 10-25 kocsi + 50 őr
     - méret↑ érték↑ ~ támadás↑
 
-védelem:
-    - kis terület (rövidebb ideig):
-      viszonylag könnyen felállítható,
-      de nem túl olcsó (ár ~ nyereség 50%)
-    - nagy terület (folyamatos):
-      nehezen felállítható, nagyon drága,
-      nem túl nehezen fenntartható
-    - nem mozgatható
-    - kifelé gyengülő hatás
-    - gyenge 😈 kicsit belemehetnek
-    - aktiválva lassan kifogy
-    - bányászható
-    - lehetőség: kristály
-    - kisebbet beszippantja
-    - kristály erőtér hullám
+kristály:
+    - földben: semleges vagy taszít + nem merül (sokat)
+    - szállításnál: vonz + nem merül
+    - aktiválva (feldolgozva?): taszít + merül
 
-biztonságos helyek:
-    - városok
-    - ideiglenes outpostok
-
-storyline:
-    - hirtelen gonosz
-    - pusztítás
-    - titokzatos idegenek nagy
-      drágakövekkel amik védik a városokat
-    - kisebb drágakövek bányászata, közös
-      tulajdon, bérleti díj (vagy 
-      elhasználódnak)
-    - cél:
-        * gonosz eredete / elpusztítása
-        * ultimate power
-        * ?????
+nyersanyagok (szállítani):
+    - védelemhez anyagok
+        * fal
+        * erőtér
+        * aura
+        * varázspor
+    - étel
+    - víz
+    - fa / kő építeni
+    - emberek szállítása
+    - tulajdonságok:
+        * teljes ár / kocsi [fix]
+          (fizetendő: anyagár, védelem,
+          szállítás, kockázat)
+        * bevétel / kocsi [~cél -> fix??]
+          (eladás - t.ár) / t.ár
+        * kockázat: támadás veszélye [fix]
 
 gonosz:
     - szellemek
     - mutálódott élőlények
     - zombik
+    - mudmen
     - egyedi lények
-    - 😈👽👻🤖👹👺😼👼🐺🐲🦂👾
-
+    - tulajdonságok:
+        * nem könnyen elpusztítható
+        * a semmiből jelennek meg
+        * különböző erejű / típusú
+        * lassabb a karavánnál
+        * gyengéje a "védelem"
