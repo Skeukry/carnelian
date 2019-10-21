@@ -71,6 +71,7 @@ karaván:
         * ranged
     - felderítők
     - medic
+    - trail / wagon / caravan master
     - min karaván: 1 kocsi + 2 őr
     - max karaván: 10-25 kocsi + 50 őr
     - méret↑ érték↑ ~ támadás↑

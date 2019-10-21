@@ -1,6 +1,6 @@
 # General ignores
-misc/*.jpg
-misc/*.png
+misc/
+*_backup.*
 
 
 # Godot-specific ignores
